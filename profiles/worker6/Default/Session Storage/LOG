@@ -1,0 +1,219 @@
+2026/10/01-22:55:24.281 5fd Reusing MANIFEST /root/brutv2/profiles/worker6/Default/Session Storage/MANIFEST-000001
+2026/10/01-22:55:24.281 5fd Recovering log #3
+2026/10/01-22:55:24.282 5fd Reusing old log /root/brutv2/profiles/worker6/Default/Session Storage/000003.log 
+2026/10/01-23:08:24.284 60e Level-0 table #5: started
+2026/10/01-23:08:24.286 60e Level-0 table #5: 6946 bytes OK
+2026/10/01-23:08:24.288 60e Delete type=0 #3
+2026/10/02-03:15:24.284 5fd Level-0 table #7: started
+2026/10/02-03:15:24.285 5fd Level-0 table #7: 6175 bytes OK
+2026/10/02-03:15:24.286 5fd Delete type=0 #4
+2026/10/02-07:22:24.282 5fd Level-0 table #9: started
+2026/10/02-07:22:24.284 5fd Level-0 table #9: 6188 bytes OK
+2026/10/02-07:22:24.285 5fd Delete type=0 #6
+2026/10/02-11:29:24.283 60e Level-0 table #11: started
+2026/10/02-11:29:24.286 60e Level-0 table #11: 6183 bytes OK
+2026/10/02-11:29:24.286 60e Delete type=0 #8
+2026/10/02-15:36:24.279 5fd Level-0 table #13: started
+2026/10/02-15:36:24.281 5fd Level-0 table #13: 6189 bytes OK
+2026/10/02-15:36:24.282 5fd Delete type=0 #10
+2026/10/02-19:43:24.283 60e Level-0 table #15: started
+2026/10/02-19:43:24.285 60e Level-0 table #15: 6204 bytes OK
+2026/10/02-19:43:24.286 60e Delete type=0 #12
+2026/10/02-19:43:24.286 60e Compacting 4@0 + 1@1 files
+2026/10/02-19:43:24.287 60e Generated table #16@0: 3 keys, 275 bytes
+2026/10/02-19:43:24.287 60e Compacted 4@0 + 1@1 files => 275 bytes
+2026/10/02-19:43:24.288 60e compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/02-19:43:24.288 60e Delete type=2 #15
+2026/10/02-19:43:24.288 60e Delete type=2 #13
+2026/10/02-19:43:24.288 60e Delete type=2 #11
+2026/10/02-19:43:24.288 60e Delete type=2 #7
+2026/10/02-19:43:24.288 60e Delete type=2 #9
+2026/10/02-23:50:24.283 5fd Level-0 table #18: started
+2026/10/02-23:50:24.285 5fd Level-0 table #18: 6195 bytes OK
+2026/10/02-23:50:24.286 5fd Delete type=0 #14
+2026/10/03-03:57:24.282 5fd Level-0 table #20: started
+2026/10/03-03:57:24.285 5fd Level-0 table #20: 6261 bytes OK
+2026/10/03-03:57:24.286 5fd Delete type=0 #17
+2026/10/03-08:04:24.290 5fd Level-0 table #22: started
+2026/10/03-08:04:24.292 5fd Level-0 table #22: 6351 bytes OK
+2026/10/03-08:04:24.293 5fd Delete type=0 #19
+2026/10/03-12:11:24.282 60e Level-0 table #24: started
+2026/10/03-12:11:24.285 60e Level-0 table #24: 6350 bytes OK
+2026/10/03-12:11:24.286 60e Delete type=0 #21
+2026/10/03-12:11:24.286 60e Compacting 4@0 + 1@1 files
+2026/10/03-12:11:24.288 60e Generated table #25@0: 3 keys, 277 bytes
+2026/10/03-12:11:24.288 60e Compacted 4@0 + 1@1 files => 277 bytes
+2026/10/03-12:11:24.288 60e compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/03-12:11:24.288 60e Delete type=2 #20
+2026/10/03-12:11:24.288 60e Delete type=2 #16
+2026/10/03-12:11:24.288 60e Delete type=2 #22
+2026/10/03-12:11:24.289 60e Delete type=2 #18
+2026/10/03-12:11:24.289 60e Delete type=2 #24
+2026/10/03-16:18:24.290 5fd Level-0 table #27: started
+2026/10/03-16:18:24.292 5fd Level-0 table #27: 6355 bytes OK
+2026/10/03-16:18:24.293 5fd Delete type=0 #23
+2026/10/03-20:25:24.290 5fd Level-0 table #29: started
+2026/10/03-20:25:24.292 5fd Level-0 table #29: 6371 bytes OK
+2026/10/03-20:25:24.294 5fd Delete type=0 #26
+2026/10/04-00:32:24.273 60e Level-0 table #31: started
+2026/10/04-00:32:24.275 60e Level-0 table #31: 6354 bytes OK
+2026/10/04-00:32:24.276 60e Delete type=0 #28
+2026/10/04-04:39:24.290 5fd Level-0 table #33: started
+2026/10/04-04:39:24.292 5fd Level-0 table #33: 6368 bytes OK
+2026/10/04-04:39:24.293 5fd Delete type=0 #30
+2026/10/04-04:39:24.293 5fd Compacting 4@0 + 1@1 files
+2026/10/04-04:39:24.295 5fd Generated table #34@0: 3 keys, 277 bytes
+2026/10/04-04:39:24.295 5fd Compacted 4@0 + 1@1 files => 277 bytes
+2026/10/04-04:39:24.295 5fd compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/04-04:39:24.295 5fd Delete type=2 #33
+2026/10/04-04:39:24.295 5fd Delete type=2 #31
+2026/10/04-04:39:24.295 5fd Delete type=2 #27
+2026/10/04-04:39:24.295 5fd Delete type=2 #29
+2026/10/04-04:39:24.295 5fd Delete type=2 #25
+2026/10/04-08:46:24.272 5fd Level-0 table #36: started
+2026/10/04-08:46:24.274 5fd Level-0 table #36: 6358 bytes OK
+2026/10/04-08:46:24.275 5fd Delete type=0 #32
+2026/10/04-12:53:24.288 60e Level-0 table #38: started
+2026/10/04-12:53:24.291 60e Level-0 table #38: 6342 bytes OK
+2026/10/04-12:53:24.292 60e Delete type=0 #35
+2026/10/04-17:00:24.288 60e Level-0 table #40: started
+2026/10/04-17:00:24.290 60e Level-0 table #40: 6343 bytes OK
+2026/10/04-17:00:24.291 60e Delete type=0 #37
+2026/10/04-21:07:24.272 60e Level-0 table #42: started
+2026/10/04-21:07:24.274 60e Level-0 table #42: 6353 bytes OK
+2026/10/04-21:07:24.275 60e Delete type=0 #39
+2026/10/04-21:07:24.275 60e Compacting 4@0 + 1@1 files
+2026/10/04-21:07:24.277 60e Generated table #43@0: 3 keys, 277 bytes
+2026/10/04-21:07:24.277 60e Compacted 4@0 + 1@1 files => 277 bytes
+2026/10/04-21:07:24.277 60e compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/04-21:07:24.277 60e Delete type=2 #38
+2026/10/04-21:07:24.277 60e Delete type=2 #34
+2026/10/04-21:07:24.277 60e Delete type=2 #42
+2026/10/04-21:07:24.277 60e Delete type=2 #36
+2026/10/04-21:07:24.277 60e Delete type=2 #40
+2026/10/05-01:14:24.271 60e Level-0 table #45: started
+2026/10/05-01:14:24.273 60e Level-0 table #45: 6359 bytes OK
+2026/10/05-01:14:24.274 60e Delete type=0 #41
+2026/10/05-05:21:24.271 5fd Level-0 table #47: started
+2026/10/05-05:21:24.273 5fd Level-0 table #47: 6349 bytes OK
+2026/10/05-05:21:24.274 5fd Delete type=0 #44
+2026/10/05-09:28:24.287 60e Level-0 table #49: started
+2026/10/05-09:28:24.289 60e Level-0 table #49: 6371 bytes OK
+2026/10/05-09:28:24.290 60e Delete type=0 #46
+2026/10/05-13:35:24.270 5fd Level-0 table #51: started
+2026/10/05-13:35:24.272 5fd Level-0 table #51: 6347 bytes OK
+2026/10/05-13:35:24.273 5fd Delete type=0 #48
+2026/10/05-13:35:24.273 5fd Compacting 4@0 + 1@1 files
+2026/10/05-13:35:24.275 5fd Generated table #52@0: 3 keys, 277 bytes
+2026/10/05-13:35:24.275 5fd Compacted 4@0 + 1@1 files => 277 bytes
+2026/10/05-13:35:24.275 5fd compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/05-13:35:24.275 5fd Delete type=2 #47
+2026/10/05-13:35:24.275 5fd Delete type=2 #43
+2026/10/05-13:35:24.275 5fd Delete type=2 #49
+2026/10/05-13:35:24.275 5fd Delete type=2 #51
+2026/10/05-13:35:24.275 5fd Delete type=2 #45
+2026/10/05-17:42:24.286 5fd Level-0 table #54: started
+2026/10/05-17:42:24.288 5fd Level-0 table #54: 6385 bytes OK
+2026/10/05-17:42:24.289 5fd Delete type=0 #50
+2026/10/05-21:49:24.303 5fd Level-0 table #56: started
+2026/10/05-21:49:24.305 5fd Level-0 table #56: 6353 bytes OK
+2026/10/05-21:49:24.306 5fd Delete type=0 #53
+2026/10/06-01:56:24.286 5fd Level-0 table #58: started
+2026/10/06-01:56:24.288 5fd Level-0 table #58: 6345 bytes OK
+2026/10/06-01:56:24.288 5fd Delete type=0 #55
+2026/10/06-06:03:24.270 5fd Level-0 table #60: started
+2026/10/06-06:03:24.272 5fd Level-0 table #60: 6362 bytes OK
+2026/10/06-06:03:24.273 5fd Delete type=0 #57
+2026/10/06-06:03:24.273 5fd Compacting 4@0 + 1@1 files
+2026/10/06-06:03:24.275 5fd Generated table #61@0: 3 keys, 277 bytes
+2026/10/06-06:03:24.275 5fd Compacted 4@0 + 1@1 files => 277 bytes
+2026/10/06-06:03:24.276 5fd compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/06-06:03:24.276 5fd Delete type=2 #54
+2026/10/06-06:03:24.276 5fd Delete type=2 #56
+2026/10/06-06:03:24.276 5fd Delete type=2 #58
+2026/10/06-06:03:24.276 5fd Delete type=2 #52
+2026/10/06-06:03:24.276 5fd Delete type=2 #60
+2026/10/06-10:10:24.285 60e Level-0 table #63: started
+2026/10/06-10:10:24.287 60e Level-0 table #63: 6347 bytes OK
+2026/10/06-10:10:24.288 60e Delete type=0 #59
+2026/10/06-14:17:24.302 5fd Level-0 table #65: started
+2026/10/06-14:17:24.304 5fd Level-0 table #65: 6350 bytes OK
+2026/10/06-14:17:24.305 5fd Delete type=0 #62
+2026/10/06-18:24:24.285 5fd Level-0 table #67: started
+2026/10/06-18:24:24.287 5fd Level-0 table #67: 6345 bytes OK
+2026/10/06-18:24:24.288 5fd Delete type=0 #64
+2026/10/06-22:31:24.268 60e Level-0 table #69: started
+2026/10/06-22:31:24.270 60e Level-0 table #69: 6362 bytes OK
+2026/10/06-22:31:24.271 60e Delete type=0 #66
+2026/10/06-22:31:24.272 60e Compacting 4@0 + 1@1 files
+2026/10/06-22:31:24.273 60e Generated table #70@0: 3 keys, 277 bytes
+2026/10/06-22:31:24.274 60e Compacted 4@0 + 1@1 files => 277 bytes
+2026/10/06-22:31:24.274 60e compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/06-22:31:24.274 60e Delete type=2 #61
+2026/10/06-22:31:24.275 60e Delete type=2 #63
+2026/10/06-22:31:24.275 60e Delete type=2 #69
+2026/10/06-22:31:24.275 60e Delete type=2 #67
+2026/10/06-22:31:24.275 60e Delete type=2 #65
+2026/10/07-02:38:24.285 5fd Level-0 table #72: started
+2026/10/07-02:38:24.287 5fd Level-0 table #72: 6348 bytes OK
+2026/10/07-02:38:24.288 5fd Delete type=0 #68
+2026/10/07-06:45:24.301 5fd Level-0 table #74: started
+2026/10/07-06:45:24.303 5fd Level-0 table #74: 6366 bytes OK
+2026/10/07-06:45:24.305 5fd Delete type=0 #71
+2026/10/07-10:52:24.285 60e Level-0 table #76: started
+2026/10/07-10:52:24.288 60e Level-0 table #76: 6327 bytes OK
+2026/10/07-10:52:24.289 60e Delete type=0 #73
+2026/10/07-14:59:24.268 5fd Level-0 table #78: started
+2026/10/07-14:59:24.270 5fd Level-0 table #78: 6353 bytes OK
+2026/10/07-14:59:24.270 5fd Delete type=0 #75
+2026/10/07-14:59:24.271 5fd Compacting 4@0 + 1@1 files
+2026/10/07-14:59:24.272 5fd Generated table #79@0: 3 keys, 277 bytes
+2026/10/07-14:59:24.272 5fd Compacted 4@0 + 1@1 files => 277 bytes
+2026/10/07-14:59:24.273 5fd compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/07-14:59:24.273 5fd Delete type=2 #74
+2026/10/07-14:59:24.273 5fd Delete type=2 #76
+2026/10/07-14:59:24.273 5fd Delete type=2 #78
+2026/10/07-14:59:24.273 5fd Delete type=2 #72
+2026/10/07-14:59:24.273 5fd Delete type=2 #70
+2026/10/07-19:06:24.283 60e Level-0 table #81: started
+2026/10/07-19:06:24.286 60e Level-0 table #81: 6356 bytes OK
+2026/10/07-19:06:24.287 60e Delete type=0 #77
+2026/10/07-23:13:24.300 5fd Level-0 table #83: started
+2026/10/07-23:13:24.303 5fd Level-0 table #83: 6370 bytes OK
+2026/10/07-23:13:24.304 5fd Delete type=0 #80
+2026/10/08-03:20:24.316 60e Level-0 table #85: started
+2026/10/08-03:20:24.319 60e Level-0 table #85: 6335 bytes OK
+2026/10/08-03:20:24.320 60e Delete type=0 #82
+2026/10/08-07:27:24.300 5fd Level-0 table #87: started
+2026/10/08-07:27:24.302 5fd Level-0 table #87: 6348 bytes OK
+2026/10/08-07:27:24.303 5fd Delete type=0 #84
+2026/10/08-07:27:24.304 5fd Compacting 4@0 + 1@1 files
+2026/10/08-07:27:24.305 5fd Generated table #88@0: 3 keys, 277 bytes
+2026/10/08-07:27:24.305 5fd Compacted 4@0 + 1@1 files => 277 bytes
+2026/10/08-07:27:24.306 5fd compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/08-07:27:24.306 5fd Delete type=2 #81
+2026/10/08-07:27:24.306 5fd Delete type=2 #79
+2026/10/08-07:27:24.306 5fd Delete type=2 #83
+2026/10/08-07:27:24.306 5fd Delete type=2 #85
+2026/10/08-07:27:24.306 5fd Delete type=2 #87
+2026/10/08-11:34:24.250 60e Level-0 table #90: started
+2026/10/08-11:34:24.252 60e Level-0 table #90: 6328 bytes OK
+2026/10/08-11:34:24.253 60e Delete type=0 #86
+2026/10/08-15:41:24.299 5fd Level-0 table #92: started
+2026/10/08-15:41:24.301 5fd Level-0 table #92: 6359 bytes OK
+2026/10/08-15:41:24.302 5fd Delete type=0 #89
+2026/10/08-19:48:24.282 5fd Level-0 table #94: started
+2026/10/08-19:48:24.284 5fd Level-0 table #94: 6361 bytes OK
+2026/10/08-19:48:24.285 5fd Delete type=0 #91
+2026/10/08-23:55:24.266 60e Level-0 table #96: started
+2026/10/08-23:55:24.268 60e Level-0 table #96: 6362 bytes OK
+2026/10/08-23:55:24.269 60e Delete type=0 #93
+2026/10/08-23:55:24.269 60e Compacting 4@0 + 1@1 files
+2026/10/08-23:55:24.271 60e Generated table #97@0: 3 keys, 277 bytes
+2026/10/08-23:55:24.271 60e Compacted 4@0 + 1@1 files => 277 bytes
+2026/10/08-23:55:24.271 60e compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/10/08-23:55:24.272 60e Delete type=2 #94
+2026/10/08-23:55:24.272 60e Delete type=2 #90
+2026/10/08-23:55:24.272 60e Delete type=2 #92
+2026/10/08-23:55:24.272 60e Delete type=2 #88
+2026/10/08-23:55:24.272 60e Delete type=2 #96

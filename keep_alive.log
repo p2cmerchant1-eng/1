@@ -1,0 +1,27 @@
+2026-08-26 05:39:45,745 [INFO] ============================================================
+2026-08-26 05:39:45,745 [INFO] 🔄 KEEP-ALIVE СИСТЕМА
+2026-08-26 05:39:45,745 [INFO] ============================================================
+2026-08-26 05:39:45,745 [INFO] 📋 Найдено профилей: 5
+2026-08-26 05:39:45,745 [INFO] ⏱️ Интервал обновления: 15 минут
+2026-08-26 05:39:45,745 [INFO] 🚀 Запущено 5 keep-alive задач
+2026-08-26 05:39:45,745 [INFO] 🔄 [worker1] Запуск keep-alive...
+2026-08-26 05:39:45,745 [INFO] 🔄 [worker2] Запуск keep-alive...
+2026-08-26 05:39:45,745 [INFO] 🔄 [worker3] Запуск keep-alive...
+2026-08-26 05:39:45,745 [INFO] 🔄 [worker4] Запуск keep-alive...
+2026-08-26 05:39:45,745 [INFO] 🔄 [worker5] Запуск keep-alive...
+2026-08-26 05:39:49,800 [INFO] ✅ [worker5] Авторизован, сессия активна
+2026-08-26 05:39:49,807 [INFO] ✅ [worker1] Авторизован, сессия активна
+2026-08-26 05:39:49,838 [INFO] ✅ [worker2] Авторизован, сессия активна
+2026-08-26 05:39:49,857 [INFO] ✅ [worker4] Авторизован, сессия активна
+2026-08-26 05:39:50,061 [INFO] ✅ [worker3] Авторизован, сессия активна
+2026-08-26 05:41:16,806 [INFO] ⚠️ Остановлено пользователем
+2026-08-26 05:41:16,813 [ERROR] Task was destroyed but it is pending!
+task: <Task pending name='Task-2' coro=<keep_alive_worker() running at /root/brutv2/keep_alive.py:198> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[gather.<locals>._done_callback() at /usr/lib/python3.10/asyncio/tasks.py:720, <1 more>, ProtocolCallback.__init__.<locals>.cb() at /usr/local/lib/python3.10/dist-packages/playwright/_impl/_connection.py:264]>
+2026-08-26 05:41:16,813 [ERROR] Task was destroyed but it is pending!
+task: <Task pending name='Task-3' coro=<keep_alive_worker() running at /root/brutv2/keep_alive.py:198> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[gather.<locals>._done_callback() at /usr/lib/python3.10/asyncio/tasks.py:720, <1 more>, ProtocolCallback.__init__.<locals>.cb() at /usr/local/lib/python3.10/dist-packages/playwright/_impl/_connection.py:264]>
+2026-08-26 05:41:16,813 [ERROR] Task was destroyed but it is pending!
+task: <Task pending name='Task-4' coro=<keep_alive_worker() running at /root/brutv2/keep_alive.py:198> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[gather.<locals>._done_callback() at /usr/lib/python3.10/asyncio/tasks.py:720, <1 more>, ProtocolCallback.__init__.<locals>.cb() at /usr/local/lib/python3.10/dist-packages/playwright/_impl/_connection.py:264]>
+2026-08-26 05:41:16,813 [ERROR] Task was destroyed but it is pending!
+task: <Task pending name='Task-5' coro=<keep_alive_worker() running at /root/brutv2/keep_alive.py:198> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[gather.<locals>._done_callback() at /usr/lib/python3.10/asyncio/tasks.py:720, <1 more>, ProtocolCallback.__init__.<locals>.cb() at /usr/local/lib/python3.10/dist-packages/playwright/_impl/_connection.py:264]>
+2026-08-26 05:41:16,813 [ERROR] Task was destroyed but it is pending!
+task: <Task pending name='Task-6' coro=<keep_alive_worker() running at /root/brutv2/keep_alive.py:198> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[gather.<locals>._done_callback() at /usr/lib/python3.10/asyncio/tasks.py:720, <1 more>, ProtocolCallback.__init__.<locals>.cb() at /usr/local/lib/python3.10/dist-packages/playwright/_impl/_connection.py:264]>

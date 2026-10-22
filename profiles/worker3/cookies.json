@@ -1,0 +1,52 @@
+[
+  {
+    "name": "refreshToken",
+    "value": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiYTZhNzI5OWYtOTQ3NC00ZjE5LWI2OGYtNTNiZjRiOTRlZGFlIiwicGhvbmUiOiI5MDE2MjAxODYxIiwidXNlcl9uYW1lIjoiOTAxNjIwMTg2MXxhNmE3Mjk5Zi05NDc0LTRmMTktYjY4Zi01M2JmNGI5NGVkYWUiLCJzY29wZSI6WyJnZW5lcmF0ZWQtc3RyaW5ncyIsInVzZXItc2VsZiIsImNsaWVudC1vcGVyYXRpb25zIiwiY2hhdC1qd3QiLCJjaGFuZ2UtcGhvbmUiLCJyZXNldC1wYXNzd29yZCIsImJhbmtzLXZpZXciLCJjaGF0LXByb2ZpbGUtb3BlcmF0aW9ucyJdLCJhdGkiOiJEVDR5NHdJdmZYcWRIbDJfNkJ4Rkc5YjVxUEEiLCJjcmVhdGVkX2F0IjoiMjAyNi0wOS0xM1QxMjo1Mjo0NS4yNjAyMDcwODVaIiwiZXhwIjoxODA0ODU1OTY1LCJhdXRob3JpdGllcyI6WyJST0xFX0NMSUVOVCJdLCJlbWFpbCI6bnVsbCwianRpIjoiTkJvbVExOWRqVzBhbExJUTkxV3REcmNsa1FzIiwiY2xpZW50X2lkIjoibnNway1jbGllbnQifQ.iVfn0JTqIDrcICytu8kRrj2lSCEE_Tvg1urtjw22N-tznwq7K21wUYIif4mQrPvi34bXMq_W3W8Km9IzoBhL07Q2L0T2KEyrZ51wd0kvA0Vv-HV3jkJFiQ4bKB1mcYjcCn3fSSBNX7qkQUaoXNEW3ghe1umoilyfJOjGjka_uXVQhcw-UIgtPsWWTzD7Q8GtxOScCEquPG1jiKHoqifRXtJ1aKbDIitP1Q8Q8-3r-ir2BfCf2as9QBRCZfY57wIzGEICHKlesgINxs0h6TwT0gSVLG5t7WHXuWClGGBRx0YqTxdi9JfFjfnRUfSz06SYQgBbFNSlIDADWfldaA1gWg",
+    "domain": ".vamprivet.ru",
+    "path": "/auth",
+    "expires": 1804855965.377,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "refreshToken",
+    "value": "Y",
+    "domain": ".vamprivet.ru",
+    "path": "/",
+    "expires": 1804855965.376877,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "hashQuery",
+    "value": "4d2a94d52b7b344def235b2b9f2d5a9d",
+    "domain": ".vamprivet.ru",
+    "path": "/",
+    "expires": 1789390365.376954,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "accessToken",
+    "value": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiYTZhNzI5OWYtOTQ3NC00ZjE5LWI2OGYtNTNiZjRiOTRlZGFlIiwicGhvbmUiOiI5MDE2MjAxODYxIiwidXNlcl9uYW1lIjoiOTAxNjIwMTg2MXxhNmE3Mjk5Zi05NDc0LTRmMTktYjY4Zi01M2JmNGI5NGVkYWUiLCJzY29wZSI6WyJnZW5lcmF0ZWQtc3RyaW5ncyIsInVzZXItc2VsZiIsImNsaWVudC1vcGVyYXRpb25zIiwiY2hhdC1qd3QiLCJjaGFuZ2UtcGhvbmUiLCJyZXNldC1wYXNzd29yZCIsImJhbmtzLXZpZXciLCJjaGF0LXByb2ZpbGUtb3BlcmF0aW9ucyJdLCJjcmVhdGVkX2F0IjoiMjAyNi0wOS0xM1QxMjo1Mjo0NS4yNjAyMDcwODVaIiwiZXhwIjoxNzg5MzkwMzY1LCJhdXRob3JpdGllcyI6WyJST0xFX0NMSUVOVCJdLCJlbWFpbCI6bnVsbCwianRpIjoiRFQ0eTR3SXZmWHFkSGwyXzZCeEZHOWI1cVBBIiwiY2xpZW50X2lkIjoibnNway1jbGllbnQifQ.abLH6BSs_0op6GEm3OpOgEc2fmOO5K2UWTBebbe-jzkVs19sidKlV-Wu2Lc2yPAX-M6aN1zmphQV5toPiFMXJ6S4c4ZjntEN7MnZbzsZXlRlb_xDbzkOizJ0fLI1lVLEIx8EaOQT3KNp1_FdSJhC9e2CioVf2mEymzia6YM4YXphis-87mjCAr7zLA9iJzbzBWW41E4gtva-1T1g9xzR_FZ8VOcBhkY3KWECskypBvAPRSL3x3GfSrKn-j_FOy5_AbKqTBpadWpGnxsyp4faXhWkLHTyYaoofv_PCPaIgDuEHKhjPmPKriYtg8ROBYUpjVHX5SrsRGLePKiLwc6cZw",
+    "domain": ".vamprivet.ru",
+    "path": "/",
+    "expires": 1789390365.376972,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "PHPSESSID",
+    "value": "jHKdXZ5cHd55XCtrc0n1cWOTLQkbr0qT",
+    "domain": "vamprivet.ru",
+    "path": "/",
+    "expires": 1789895966.088959,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  }
+]

@@ -1,0 +1,58 @@
+{
+  "uuid": "9719dafeeeabe5a41b0dd0609d47d461",
+  "sn_map": {
+    "1232": 243362873,
+    "5485": 207712520
+  },
+  "raw": {
+    "success": true,
+    "data": {
+      "cards": {
+        "loaded": true,
+        "urls": {
+          "delete": {
+            "url": "/api/cards/9719dafeeeabe5a41b0dd0609d47d461/card/{card_id}?",
+            "method": "DELETE"
+          }
+        },
+        "regDateText": "Дата регистрации карты в Программе лояльности",
+        "cardsTitle": "Мои карты «Мир»",
+        "cardsFreeLayoutBlock": "",
+        "items": [
+          {
+            "id": "8077ccee-a6d9-4198-b517-3be1f41a1f44",
+            "title": "Банк ГПБ (АО)",
+            "sn": 243362873,
+            "number": "220001******1232",
+            "numberShort": "****1232",
+            "bgImg": "/local/templates/mir/assets/images/card.png",
+            "bgMobileImg": "/local/templates/mir/assets/images/card_mobile.svg",
+            "unregistered": false,
+            "cardRegistrationDate": "26.06.25",
+            "changeHistory": [],
+            "cardProgramCodes": [],
+            "cardPrograms": [],
+            "cardProgramTypes": [],
+            "tokens": []
+          },
+          {
+            "id": "068df11b-4665-4b78-b735-765a148b0ec2",
+            "title": "АО \"ТБанк\"",
+            "sn": 207712520,
+            "number": "220070******5485",
+            "numberShort": "****5485",
+            "bgImg": "/local/templates/mir/assets/images/card.png",
+            "bgMobileImg": "/local/templates/mir/assets/images/card_mobile.svg",
+            "unregistered": false,
+            "cardRegistrationDate": "19.11.24",
+            "changeHistory": [],
+            "cardProgramCodes": [],
+            "cardPrograms": [],
+            "cardProgramTypes": [],
+            "tokens": []
+          }
+        ]
+      }
+    }
+  }
+}
